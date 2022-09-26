@@ -1,0 +1,1 @@
+print("Utah State Sucks")
